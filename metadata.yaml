@@ -1,0 +1,37 @@
+_repo: Zibeline-Volume-2_3932
+contributor:
+  translator:
+    agent_name: Ranous, Dora Knowlton
+    aliases:
+    - Ranous, Dora Knowlton Thompson
+    - Knowlton, Dora Ranous
+    birthdate: 1859
+    deathdate: 1916
+    gutenberg_agent_id: '5761'
+    url: http://www.gutenberg.org/2009/agents/5761
+creator:
+  author:
+    agent_name: Massa, Philippe, marquis de
+    aliases:
+    - De Massa, Alexandre Philippe Regnier
+    - De Massa, Philippe, marquis
+    - Massa, Alexandre-Philippe, marquis de
+    birthdate: 1831
+    deathdate: 1911
+    gutenberg_agent_id: '1339'
+    url: http://www.gutenberg.org/2009/agents/1339
+description: ''
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heroines -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Paris (France) -- Fiction'
+title: Zibeline — Volume 2
+url: http://www.gutenberg.org/ebooks/3932
