@@ -1,5 +1,5 @@
 _repo: Zibeline-Volume-2_3932
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Ranous, Dora Knowlton
@@ -39,5 +39,6 @@ subjects:
 - !lcsh 'Heroines -- Fiction'
 - !lcc 'PQ'
 - !lcsh 'Paris (France) -- Fiction'
+- GITenberg
 title: Zibeline — Volume 2
 url: http://www.gutenberg.org/ebooks/3932
